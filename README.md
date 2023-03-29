@@ -18,12 +18,15 @@ The **AGIQA-1K** database contains 2 types of files:
 A. file.zip (AI-Generated Images)
 
 The panbaidu downloadlink can be accessed [here](https://pan.baidu.com/s/1n_-_9WPCDf8nlVeQ6OwIDg). Extraction code: AIGC
+
 The googledrive downloadlink is [here](https://drive.google.com/file/d/158uTLMnxGlzYA11r5jOtXFAWAG_4sjia/view?usp=share_link).
 
 B. AIGC_MOS_Zscore.xlsx (Prompt, MOS)
 
 Column1: Image name
+
 Column2: Input prompt for the generative model
+
 Column3: Normalized MOS score.
 
 The correspondence between image name and prompt is as follows: 
@@ -61,7 +64,6 @@ If you find our work useful, please cite our paper as:
 
 The database is distributed under the MIT license.
 ```
-
 ## Contact
 Chunyi Li, ```lcysyzxdxc@sjtu.edu.cn```
 Zicheng Zhang, ```zzc1998@sjtu.edu.cn```
