@@ -8,7 +8,7 @@ AI Generated Content (AIGC) refers to any form ofcontent, such as text, images, 
 
 Unlike Natural Scene Images (NSIs) that are captured from the natural scenes, AGIs are directly generated from AI models. Thus, AGIs obtain some unique quality characteristics and viewers tend to evaluate the quality of AGIs from some different aspects of NSIs. 
 
-Therefore, we propose the first perceptual AGI qual-ity assessment database (AGIQA-1K), which provides 1,080 AGIs along with quality labels, including technical issues, AI artifacts, unnaturalness, discrepancy, and aesthetics as major evaluation aspects.
+Therefore, we propose the first perceptual AGI Quality Assessment (AGIQA-1K) database, which provides 1,080 AGIs along with quality labels, including technical issues, AI artifacts, unnaturalness, discrepancy, and aesthetics as major evaluation aspects.
 
 
 ## 2. Database Description
@@ -63,7 +63,7 @@ If you find our work useful, please cite our paper as:
 ## 4. License
 
 The database is distributed under the MIT license.
-```
+
 ## Contact
 Chunyi Li, ```lcysyzxdxc@sjtu.edu.cn```
 Zicheng Zhang, ```zzc1998@sjtu.edu.cn```
